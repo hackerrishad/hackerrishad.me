@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Sheikh Rishad</title>
+        <description>Hack the Planet</description>
+        <link>http://localhost:4000/</link>
+        <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
+        <pubDate>Sat, 30 Oct 2021 01:00:07 +0600</pubDate>
+        <lastBuildDate>Sat, 30 Oct 2021 01:00:07 +0600</lastBuildDate>
+        <generator>Jekyll v4.2.1</generator>
+        
+            <item>
+                <title>Insecure Deeplink in redact Android App</title>
+                <description>&lt;h3 id=&quot;coming-soon&quot;&gt;Coming soon…&lt;/h3&gt;
+
+</description>
+                <pubDate>Fri, 29 Oct 2021 18:01:35 +0600</pubDate>
+                <link>http://localhost:4000/Insecure-Deeplink-in-redact-Android-App</link>
+                <guid isPermaLink="true">http://localhost:4000/Insecure-Deeplink-in-redact-Android-App</guid>
+                
+                <category>android</category>
+                
+                <category>bugbounty</category>
+                
+                <category>hacking</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>Access to Any Protected Components in redact Android App</title>
+                <description>&lt;h3 id=&quot;coming-soon&quot;&gt;Coming soon…&lt;/h3&gt;
+
+</description>
+                <pubDate>Fri, 29 Oct 2021 18:01:35 +0600</pubDate>
+                <link>http://localhost:4000/Access-to-Any-Protected-Components-in-redact-Android-App</link>
+                <guid isPermaLink="true">http://localhost:4000/Access-to-Any-Protected-Components-in-redact-Android-App</guid>
+                
+                <category>android</category>
+                
+                <category>bugbounty</category>
+                
+                <category>hacking</category>
+                
+                
+            </item>
+        
+            <item>
+                <title>Hello World!</title>
+                <description>&lt;h3 id=&quot;hello-world&quot;&gt;Hello, World!&lt;/h3&gt;
+
+</description>
+                <pubDate>Fri, 15 Oct 2021 18:01:35 +0600</pubDate>
+                <link>http://localhost:4000/hello-world</link>
+                <guid isPermaLink="true">http://localhost:4000/hello-world</guid>
+                
+                <category>bugbounty</category>
+                
+                <category>hacking</category>
+                
+                
+            </item>
+        
+    </channel>
+</rss>

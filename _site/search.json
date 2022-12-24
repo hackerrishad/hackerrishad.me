@@ -1,0 +1,33 @@
+[
+  
+    {
+      "title"    : "Insecure Deeplink in redact Android App",
+      "category" : "",
+      "tags"     : "android, bugbounty, and hacking",
+      "url"      : "/Insecure-Deeplink-in-redact-Android-App",
+      "date"     : "Oct 29, 2021",
+      "content"  : "Coming soon…",
+      "article"  : "<div class='article col col-4 col-d-6 col-t-12 animate'> <div class='article__inner'> <div class='article__head'> <time class='article__date' datetime='2021-10-29T18:01:35+06:00'>29 Oct 2021</time><a class='article__image' href='/Insecure-Deeplink-in-redact-Android-App'> <img src='/images/03.jpg' alt='Insecure Deeplink in redact Android App'> </a></div><div class='article__content'> <h2 class='article__title'> <a href='/Insecure-Deeplink-in-redact-Android-App'>Insecure Deeplink in redact Android App</a> </h2></div></div></div>"
+    } ,
+  
+    {
+      "title"    : "Access to Any Protected Components in redact Android App",
+      "category" : "",
+      "tags"     : "android, bugbounty, and hacking",
+      "url"      : "/Access-to-Any-Protected-Components-in-redact-Android-App",
+      "date"     : "Oct 29, 2021",
+      "content"  : "Coming soon…",
+      "article"  : "<div class='article col col-4 col-d-6 col-t-12 animate'> <div class='article__inner'> <div class='article__head'> <time class='article__date' datetime='2021-10-29T18:01:35+06:00'>29 Oct 2021</time><a class='article__image' href='/Access-to-Any-Protected-Components-in-redact-Android-App'> <img src='/images/02.jpg' alt='Access to Any Protected Components in redact Android App'> </a></div><div class='article__content'> <h2 class='article__title'> <a href='/Access-to-Any-Protected-Components-in-redact-Android-App'>Access to Any Protected Components in redact Android App</a> </h2></div></div></div>"
+    } ,
+  
+    {
+      "title"    : "Hello World!",
+      "category" : "",
+      "tags"     : "bugbounty and hacking",
+      "url"      : "/hello-world",
+      "date"     : "Oct 15, 2021",
+      "content"  : "Hello, World!",
+      "article"  : "<div class='article col col-4 col-d-6 col-t-12 animate'> <div class='article__inner'> <div class='article__head'> <time class='article__date' datetime='2021-10-15T18:01:35+06:00'>15 Oct 2021</time><a class='article__image' href='/hello-world'> <img src='/images/07.jpg' alt='Hello World!'> </a></div><div class='article__content'> <h2 class='article__title'> <a href='/hello-world'>Hello World!</a> </h2><p class='article__excerpt'>Hack the Planet...</p></div></div></div>"
+    } 
+  
+]
